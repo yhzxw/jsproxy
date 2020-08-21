@@ -14,7 +14,7 @@ jsproxy_config({
   // 节点配置
   node_map: {
     'mysite': {
-      label: '当前站点',
+      label: '@当前@',
       lines: {
         [location.host]: 1,
       }
